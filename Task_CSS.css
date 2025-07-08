@@ -1,0 +1,87 @@
+header{
+color:white;
+width: 1335px;
+height: 650px;
+margin:-5px;
+padding:0px;
+background-color:#034f73;
+//ٍposition:relative;
+}
+.nave{
+width:700px;
+height:50px;
+border: 3px solid rgb(208, 211, 211); 
+border-radius: 15px;
+font-size:30px;
+position:relative;
+top:30px;
+left:25%;
+}
+a{
+color:white;
+padding:40px;
+text-align: center;
+text-decoration: none;
+}
+.welcome{
+position:absolute;
+bottom:20%;
+left:15%;
+font-size:70px;
+}
+img{
+width:320px;
+height:320px;
+position:relative;
+left:700px;
+top:150px;
+
+}
+#about,#Projects,#Skills,#Contact,#footer{
+background-color:rgb(208, 211, 211);
+color:#034f73;
+width:650px;
+height:150px;
+position:relative;
+left:285px;
+top:70px;
+border-radius:25px;
+padding:20px;
+margin:50px;
+box-shadow: 3px 3px 10px 10px rgba(0, 0, 0, 0.2);
+}
+h2{
+text-align: center;
+}
+#about{
+width:650px;
+height:150px;
+}
+
+#Projects{
+width:650px;
+height:300px;
+}
+#Skills{
+width:650px;
+height:170px;
+}
+
+#Contact{
+width:650px;
+height:300px;
+}
+#footer{
+width:650px;
+height:100px;
+
+}
+button{
+background-color:white;
+color:#034f73;
+border: 3px solid #034f73; 
+border-radius:5px;
+
+}
+
+
